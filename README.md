@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kartoza/geosafe.png?label=ready&title=Ready)](https://waffle.io/kartoza/geosafe)
 # Geosafe App for Geonode
 
 Geosafe is a django app that integrates InaSAFE Headless functionality into 
